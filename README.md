@@ -22,7 +22,6 @@ npm install
 npm run dev
 ```
 
-## Demo
+## Results
 
-- Calculator-oriented landing page
-- Reusable utility functions for financial computations
+The application delivers multiple browser-based finance calculators with reusable business logic, clean UI composition, and a production-style Next.js project layout.
